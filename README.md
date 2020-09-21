@@ -54,6 +54,10 @@ model = torch.hub.load('mit-han-lab/ProxylessNAS', target_platform, pretrained=T
 | ProxylessNAS (GPU)   | 75.1     | 92.5     | 5.1ms   |
 
 </td>
+
+
+
+add line	
 </tr>
 <tr>
     <th> ProxylessNAS(Mobile) consistently outperforms MobileNetV2 under various latency settings.  </th>
